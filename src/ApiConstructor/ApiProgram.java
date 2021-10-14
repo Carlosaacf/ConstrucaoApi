@@ -9,7 +9,7 @@ public class ApiProgram {
 		
 		p1.name = "Carlos";
 		p1.city = "Recife";
-		p1.slug = "Natrio";
+		p1.slug = "https://facebook.com/carlosaacf";
 		p1.state = "Pernambuco";
 		
 		
@@ -17,7 +17,7 @@ public class ApiProgram {
 		
 		p2.name = "Fernando";
 		p2.city = "Salvador";
-		p2.slug = "Vitarella";
+		p2.slug = "https://facebook.com/laisantos";
 		p2.state = "Bahia";
 		
 		
